@@ -1,0 +1,794 @@
+{
+  "games": [
+    {
+      "date": "2024-10-24",
+      "venue": "Away",
+      "opponent": "Nuggets",
+      "points": 102,
+      "allowed": 87,
+      "result": "W"
+    },
+    {
+      "date": "2024-10-26",
+      "venue": "Away",
+      "opponent": "Bulls",
+      "points": 114,
+      "allowed": 95,
+      "result": "W"
+    },
+    {
+      "date": "2024-10-27",
+      "venue": "Home",
+      "opponent": "Hawks",
+      "points": 128,
+      "allowed": 104,
+      "result": "W"
+    },
+    {
+      "date": "2024-10-30",
+      "venue": "Home",
+      "opponent": "Spurs",
+      "points": 105,
+      "allowed": 93,
+      "result": "W"
+    },
+    {
+      "date": "2024-11-01",
+      "venue": "Away",
+      "opponent": "Trail Blazers",
+      "points": 137,
+      "allowed": 114,
+      "result": "W"
+    },
+    {
+      "date": "2024-11-02",
+      "venue": "Away",
+      "opponent": "Clippers",
+      "points": 105,
+      "allowed": 92,
+      "result": "W"
+    },
+    {
+      "date": "2024-11-04",
+      "venue": "Home",
+      "opponent": "Magic",
+      "points": 102,
+      "allowed": 86,
+      "result": "W"
+    },
+    {
+      "date": "2024-11-06",
+      "venue": "Away",
+      "opponent": "Nuggets",
+      "points": 122,
+      "allowed": 124,
+      "result": "L"
+    },
+    {
+      "date": "2024-11-08",
+      "venue": "Home",
+      "opponent": "Rockets",
+      "points": 126,
+      "allowed": 107,
+      "result": "W"
+    },
+    {
+      "date": "2024-11-10",
+      "venue": "Home",
+      "opponent": "Warriors",
+      "points": 116,
+      "allowed": 127,
+      "result": "L"
+    },
+    {
+      "date": "2024-11-11",
+      "venue": "Home",
+      "opponent": "Clippers",
+      "points": 134,
+      "allowed": 128,
+      "result": "W"
+    },
+    {
+      "date": "2024-11-13",
+      "venue": "Home",
+      "opponent": "Pelicans",
+      "points": 106,
+      "allowed": 88,
+      "result": "W"
+    },
+    {
+      "date": "2024-11-15",
+      "venue": "Home",
+      "opponent": "Suns",
+      "points": 99,
+      "allowed": 83,
+      "result": "W"
+    },
+    {
+      "date": "2024-11-17",
+      "venue": "Home",
+      "opponent": "Mavericks",
+      "points": 119,
+      "allowed": 121,
+      "result": "L"
+    },
+    {
+      "date": "2024-11-19",
+      "venue": "Away",
+      "opponent": "Spurs",
+      "points": 104,
+      "allowed": 110,
+      "result": "L"
+    },
+    {
+      "date": "2024-11-20",
+      "venue": "Home",
+      "opponent": "Trail Blazers",
+      "points": 109,
+      "allowed": 99,
+      "result": "W"
+    },
+    {
+      "date": "2024-11-25",
+      "venue": "Away",
+      "opponent": "Kings",
+      "points": 130,
+      "allowed": 109,
+      "result": "W"
+    },
+    {
+      "date": "2024-11-27",
+      "venue": "Away",
+      "opponent": "Warriors",
+      "points": 105,
+      "allowed": 101,
+      "result": "W"
+    },
+    {
+      "date": "2024-11-29",
+      "venue": "Away",
+      "opponent": "Lakers",
+      "points": 101,
+      "allowed": 93,
+      "result": "W"
+    },
+    {
+      "date": "2024-12-01",
+      "venue": "Away",
+      "opponent": "Rockets",
+      "points": 116,
+      "allowed": 119,
+      "result": "L"
+    },
+    {
+      "date": "2024-12-03",
+      "venue": "Home",
+      "opponent": "Jazz",
+      "points": 133,
+      "allowed": 106,
+      "result": "W"
+    },
+    {
+      "date": "2024-12-05",
+      "venue": "Away",
+      "opponent": "Raptors",
+      "points": 129,
+      "allowed": 92,
+      "result": "W"
+    },
+    {
+      "date": "2024-12-07",
+      "venue": "Away",
+      "opponent": "Pelicans",
+      "points": 119,
+      "allowed": 109,
+      "result": "W"
+    },
+    {
+      "date": "2024-12-10",
+      "venue": "Home",
+      "opponent": "Mavericks",
+      "points": 118,
+      "allowed": 104,
+      "result": "W"
+    },
+    {
+      "date": "2024-12-14",
+      "venue": "Neutral",
+      "opponent": "Rockets",
+      "points": 111,
+      "allowed": 96,
+      "result": "W"
+    },
+    {
+      "date": "2024-12-19",
+      "venue": "Away",
+      "opponent": "Magic",
+      "points": 105,
+      "allowed": 99,
+      "result": "W"
+    },
+    {
+      "date": "2024-12-20",
+      "venue": "Away",
+      "opponent": "Heat",
+      "points": 104,
+      "allowed": 97,
+      "result": "W"
+    },
+    {
+      "date": "2024-12-23",
+      "venue": "Home",
+      "opponent": "Wizards",
+      "points": 123,
+      "allowed": 105,
+      "result": "W"
+    },
+    {
+      "date": "2024-12-26",
+      "venue": "Away",
+      "opponent": "Pacers",
+      "points": 120,
+      "allowed": 114,
+      "result": "W"
+    },
+    {
+      "date": "2024-12-28",
+      "venue": "Away",
+      "opponent": "Hornets",
+      "points": 106,
+      "allowed": 94,
+      "result": "W"
+    },
+    {
+      "date": "2024-12-29",
+      "venue": "Home",
+      "opponent": "Grizzlies",
+      "points": 130,
+      "allowed": 106,
+      "result": "W"
+    },
+    {
+      "date": "2024-12-31",
+      "venue": "Home",
+      "opponent": "Timberwolves",
+      "points": 113,
+      "allowed": 105,
+      "result": "W"
+    },
+    {
+      "date": "2025-01-02",
+      "venue": "Home",
+      "opponent": "Clippers",
+      "points": 116,
+      "allowed": 98,
+      "result": "W"
+    },
+    {
+      "date": "2025-01-03",
+      "venue": "Home",
+      "opponent": "Knicks",
+      "points": 117,
+      "allowed": 107,
+      "result": "W"
+    },
+    {
+      "date": "2025-01-05",
+      "venue": "Home",
+      "opponent": "Celtics",
+      "points": 105,
+      "allowed": 92,
+      "result": "W"
+    },
+    {
+      "date": "2025-01-08",
+      "venue": "Away",
+      "opponent": "Cavaliers",
+      "points": 122,
+      "allowed": 129,
+      "result": "L"
+    },
+    {
+      "date": "2025-01-10",
+      "venue": "Away",
+      "opponent": "Knicks",
+      "points": 126,
+      "allowed": 101,
+      "result": "W"
+    },
+    {
+      "date": "2025-01-12",
+      "venue": "Away",
+      "opponent": "Wizards",
+      "points": 136,
+      "allowed": 95,
+      "result": "W"
+    },
+    {
+      "date": "2025-01-14",
+      "venue": "Away",
+      "opponent": "76ers",
+      "points": 118,
+      "allowed": 102,
+      "result": "W"
+    },
+    {
+      "date": "2025-01-16",
+      "venue": "Home",
+      "opponent": "Cavaliers",
+      "points": 134,
+      "allowed": 114,
+      "result": "W"
+    },
+    {
+      "date": "2025-01-17",
+      "venue": "Away",
+      "opponent": "Mavericks",
+      "points": 98,
+      "allowed": 106,
+      "result": "L"
+    },
+    {
+      "date": "2025-01-19",
+      "venue": "Home",
+      "opponent": "Nets",
+      "points": 127,
+      "allowed": 101,
+      "result": "W"
+    },
+    {
+      "date": "2025-01-22",
+      "venue": "Home",
+      "opponent": "Jazz",
+      "points": 123,
+      "allowed": 114,
+      "result": "W"
+    },
+    {
+      "date": "2025-01-23",
+      "venue": "Home",
+      "opponent": "Mavericks",
+      "points": 115,
+      "allowed": 121,
+      "result": "L"
+    },
+    {
+      "date": "2025-01-26",
+      "venue": "Away",
+      "opponent": "Trail Blazers",
+      "points": 118,
+      "allowed": 108,
+      "result": "W"
+    },
+    {
+      "date": "2025-01-29",
+      "venue": "Away",
+      "opponent": "Warriors",
+      "points": 109,
+      "allowed": 116,
+      "result": "L"
+    },
+    {
+      "date": "2025-02-01",
+      "venue": "Home",
+      "opponent": "Kings",
+      "points": 144,
+      "allowed": 110,
+      "result": "W"
+    },
+    {
+      "date": "2025-02-03",
+      "venue": "Home",
+      "opponent": "Bucks",
+      "points": 125,
+      "allowed": 96,
+      "result": "W"
+    },
+    {
+      "date": "2025-02-05",
+      "venue": "Home",
+      "opponent": "Suns",
+      "points": 140,
+      "allowed": 109,
+      "result": "W"
+    },
+    {
+      "date": "2025-02-07",
+      "venue": "Home",
+      "opponent": "Raptors",
+      "points": 121,
+      "allowed": 109,
+      "result": "W"
+    },
+    {
+      "date": "2025-02-08",
+      "venue": "Away",
+      "opponent": "Grizzlies",
+      "points": 125,
+      "allowed": 112,
+      "result": "W"
+    },
+    {
+      "date": "2025-02-10",
+      "venue": "Home",
+      "opponent": "Pelicans",
+      "points": 137,
+      "allowed": 101,
+      "result": "W"
+    },
+    {
+      "date": "2025-02-12",
+      "venue": "Home",
+      "opponent": "Heat",
+      "points": 115,
+      "allowed": 101,
+      "result": "W"
+    },
+    {
+      "date": "2025-02-13",
+      "venue": "Away",
+      "opponent": "Timberwolves",
+      "points": 101,
+      "allowed": 116,
+      "result": "L"
+    },
+    {
+      "date": "2025-02-21",
+      "venue": "Away",
+      "opponent": "Jazz",
+      "points": 130,
+      "allowed": 107,
+      "result": "W"
+    },
+    {
+      "date": "2025-02-23",
+      "venue": "Away",
+      "opponent": "Timberwolves",
+      "points": 130,
+      "allowed": 123,
+      "result": "W"
+    },
+    {
+      "date": "2025-02-24",
+      "venue": "Home",
+      "opponent": "Timberwolves",
+      "points": 128,
+      "allowed": 131,
+      "result": "L"
+    },
+    {
+      "date": "2025-02-26",
+      "venue": "Away",
+      "opponent": "Nets",
+      "points": 129,
+      "allowed": 121,
+      "result": "W"
+    },
+    {
+      "date": "2025-02-28",
+      "venue": "Away",
+      "opponent": "Hawks",
+      "points": 135,
+      "allowed": 119,
+      "result": "W"
+    },
+    {
+      "date": "2025-03-02",
+      "venue": "Away",
+      "opponent": "Spurs",
+      "points": 146,
+      "allowed": 132,
+      "result": "W"
+    },
+    {
+      "date": "2025-03-03",
+      "venue": "Home",
+      "opponent": "Rockets",
+      "points": 137,
+      "allowed": 128,
+      "result": "W"
+    },
+    {
+      "date": "2025-03-05",
+      "venue": "Away",
+      "opponent": "Grizzlies",
+      "points": 120,
+      "allowed": 103,
+      "result": "W"
+    },
+    {
+      "date": "2025-03-07",
+      "venue": "Home",
+      "opponent": "Trail Blazers",
+      "points": 107,
+      "allowed": 89,
+      "result": "W"
+    },
+    {
+      "date": "2025-03-09",
+      "venue": "Home",
+      "opponent": "Nuggets",
+      "points": 127,
+      "allowed": 103,
+      "result": "W"
+    },
+    {
+      "date": "2025-03-10",
+      "venue": "Home",
+      "opponent": "Nuggets",
+      "points": 127,
+      "allowed": 140,
+      "result": "L"
+    },
+    {
+      "date": "2025-03-12",
+      "venue": "Away",
+      "opponent": "Celtics",
+      "points": 118,
+      "allowed": 112,
+      "result": "W"
+    },
+    {
+      "date": "2025-03-15",
+      "venue": "Away",
+      "opponent": "Pistons",
+      "points": 113,
+      "allowed": 107,
+      "result": "W"
+    },
+    {
+      "date": "2025-03-16",
+      "venue": "Away",
+      "opponent": "Bucks",
+      "points": 121,
+      "allowed": 105,
+      "result": "W"
+    },
+    {
+      "date": "2025-03-19",
+      "venue": "Home",
+      "opponent": "76ers",
+      "points": 133,
+      "allowed": 100,
+      "result": "W"
+    },
+    {
+      "date": "2025-03-21",
+      "venue": "Home",
+      "opponent": "Hornets",
+      "points": 141,
+      "allowed": 106,
+      "result": "W"
+    },
+    {
+      "date": "2025-03-23",
+      "venue": "Away",
+      "opponent": "Clippers",
+      "points": 103,
+      "allowed": 101,
+      "result": "W"
+    },
+    {
+      "date": "2025-03-25",
+      "venue": "Away",
+      "opponent": "Kings",
+      "points": 121,
+      "allowed": 105,
+      "result": "W"
+    },
+    {
+      "date": "2025-03-27",
+      "venue": "Home",
+      "opponent": "Grizzlies",
+      "points": 125,
+      "allowed": 104,
+      "result": "W"
+    },
+    {
+      "date": "2025-03-29",
+      "venue": "Home",
+      "opponent": "Pacers",
+      "points": 132,
+      "allowed": 111,
+      "result": "W"
+    },
+    {
+      "date": "2025-03-31",
+      "venue": "Home",
+      "opponent": "Bulls",
+      "points": 145,
+      "allowed": 117,
+      "result": "W"
+    },
+    {
+      "date": "2025-04-02",
+      "venue": "Home",
+      "opponent": "Pistons",
+      "points": 119,
+      "allowed": 103,
+      "result": "W"
+    },
+    {
+      "date": "2025-04-04",
+      "venue": "Away",
+      "opponent": "Rockets",
+      "points": 111,
+      "allowed": 125,
+      "result": "L"
+    },
+    {
+      "date": "2025-04-06",
+      "venue": "Home",
+      "opponent": "Lakers",
+      "points": 99,
+      "allowed": 126,
+      "result": "L"
+    },
+    {
+      "date": "2025-04-08",
+      "venue": "Home",
+      "opponent": "Lakers",
+      "points": 136,
+      "allowed": 120,
+      "result": "W"
+    },
+    {
+      "date": "2025-04-09",
+      "venue": "Away",
+      "opponent": "Suns",
+      "points": 125,
+      "allowed": 112,
+      "result": "W"
+    },
+    {
+      "date": "2025-04-11",
+      "venue": "Away",
+      "opponent": "Jazz",
+      "points": 145,
+      "allowed": 111,
+      "result": "W"
+    },
+    {
+      "date": "2025-04-13",
+      "venue": "Away",
+      "opponent": "Pelicans",
+      "points": 115,
+      "allowed": 100,
+      "result": "W"
+    }
+  ],
+  "players": [
+    {
+      "name": "Shai Gilgeous-Alexander",
+      "games": 76,
+      "minutes": 34.2,
+      "points": 32.7,
+      "rebounds": 5,
+      "assists": 6.4,
+      "steals": 1.7,
+      "blocks": 1,
+      "fg": 51.9
+    },
+    {
+      "name": "Jalen Williams",
+      "games": 69,
+      "minutes": 32.4,
+      "points": 21.6,
+      "rebounds": 5.3,
+      "assists": 5.1,
+      "steals": 1.6,
+      "blocks": 0.7,
+      "fg": 48.4
+    },
+    {
+      "name": "Chet Holmgren",
+      "games": 32,
+      "minutes": 27.4,
+      "points": 15,
+      "rebounds": 8,
+      "assists": 2,
+      "steals": 0.7,
+      "blocks": 2.2,
+      "fg": 49
+    },
+    {
+      "name": "Aaron Wiggins",
+      "games": 76,
+      "minutes": 22.9,
+      "points": 12,
+      "rebounds": 3.9,
+      "assists": 1.8,
+      "steals": 0.8,
+      "blocks": 0.2,
+      "fg": 48.8
+    },
+    {
+      "name": "Isaiah Hartenstein",
+      "games": 57,
+      "minutes": 27.9,
+      "points": 11.2,
+      "rebounds": 10.7,
+      "assists": 3.8,
+      "steals": 0.8,
+      "blocks": 1.1,
+      "fg": 58.1
+    },
+    {
+      "name": "Isaiah Joe",
+      "games": 74,
+      "minutes": 21.7,
+      "points": 10.2,
+      "rebounds": 2.6,
+      "assists": 1.6,
+      "steals": 0.6,
+      "blocks": 0.1,
+      "fg": 44
+    },
+    {
+      "name": "Luguentz Dort",
+      "games": 71,
+      "minutes": 29.2,
+      "points": 10.1,
+      "rebounds": 4.1,
+      "assists": 1.6,
+      "steals": 1.1,
+      "blocks": 0.5,
+      "fg": 43.5
+    },
+    {
+      "name": "Cason Wallace",
+      "games": 68,
+      "minutes": 27.6,
+      "points": 8.4,
+      "rebounds": 3.4,
+      "assists": 2.5,
+      "steals": 1.8,
+      "blocks": 0.5,
+      "fg": 47.4
+    },
+    {
+      "name": "Alex Caruso",
+      "games": 54,
+      "minutes": 19.3,
+      "points": 7.1,
+      "rebounds": 2.9,
+      "assists": 2.5,
+      "steals": 1.6,
+      "blocks": 0.6,
+      "fg": 44.6
+    },
+    {
+      "name": "Ajay Mitchell",
+      "games": 36,
+      "minutes": 16.6,
+      "points": 6.5,
+      "rebounds": 1.9,
+      "assists": 1.8,
+      "steals": 0.7,
+      "blocks": 0.1,
+      "fg": 49.5
+    },
+    {
+      "name": "Kenrich Williams",
+      "games": 69,
+      "minutes": 16.4,
+      "points": 6.3,
+      "rebounds": 3.5,
+      "assists": 1.4,
+      "steals": 0.6,
+      "blocks": 0.1,
+      "fg": 48.3
+    },
+    {
+      "name": "Jaylin Williams",
+      "games": 47,
+      "minutes": 16.7,
+      "points": 5.9,
+      "rebounds": 5.6,
+      "assists": 2.6,
+      "steals": 0.5,
+      "blocks": 0.6,
+      "fg": 43.9
+    }
+  ]
+}
